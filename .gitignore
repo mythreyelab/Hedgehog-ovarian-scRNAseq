@@ -1,0 +1,34 @@
+# --- Source data (not redistributed; download from TISCH2; see README) ---
+OV_GSE130000_expression.h5
+OV_GSE130000_CellMetainfo_table.tsv
+*.h5
+
+# --- R session & workspace ---
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+.Rproj.user/
+*.Rproj
+
+# --- renv (if added later) ---
+renv/library/
+renv/local/
+renv/cellar/
+renv/lock/
+renv/python/
+renv/staging/
+
+# --- OneDrive / macOS / editor cruft ---
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*.swp
+.idea/
+.vscode/

@@ -1,0 +1,10 @@
+"Signature","Spearman_rho","pval"
+"Checkpoint",-0.2381,0.5821
+"CTL",-0.6667,0.0831
+"IFNG",0.0952,0.8401
+"IMPRES",0.0476,0.9349
+"Inflammatory",-0.3333,0.4279
+"IPRES",0.0238,0.9768
+"T_cell_inflamed",-0.3333,0.4279
+"TLS",0.1429,0.752
+"T_quiescent",0.4048,0.3268

@@ -1,0 +1,4 @@
+"Tissue","N","Spearman_rho","pval"
+"Tumor",4249,-0.0317,0.0389
+"Metastatic",526,0.0094,0.8296
+"Relapsed",4101,0.0036,0.8163

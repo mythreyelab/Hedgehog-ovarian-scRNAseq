@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated manuscript and this repository."
+title: "Hedgehog pathway activity and ICB signature correlation in ovarian cancer scRNA-seq (GSE130000)"
+authors:
+  - family-names: Karthikeyan
+    given-names: Mythreye
+    affiliation: "University of Alabama at Birmingham"
+type: software
+license: MIT
+repository-code: "https://github.com/mythreyelab/Hedgehog-ovarian-scRNAseq"
+keywords:
+  - Hedgehog signaling
+  - immune checkpoint blockade
+  - single-cell RNA-seq
+  - ovarian cancer
+  - GSE130000
+  - TISCH2
+preferred-citation:
+  type: article
+  title: "TBD — manuscript in preparation"
+  authors:
+    - family-names: Karthikeyan
+      given-names: Mythreye
+  year: 2026
+references:
+  - type: article
+    authors:
+      - family-names: Kan
+        given-names: Tongtong
+    title: "Single-cell RNA-seq recognized the initiator of epithelial ovarian cancer recurrence"
+    journal: "Oncogene"
+    volume: 41
+    issue: 6
+    start: 895
+    end: 906
+    year: 2022
+    doi: 10.1038/s41388-021-02139-z
+  - type: article
+    title: "TISCH2: expanded datasets and new tools for single-cell transcriptome analyses of the tumor microenvironment"
+    journal: "Nucleic Acids Research"
+    year: 2023
+    doi: 10.1093/nar/gkac959

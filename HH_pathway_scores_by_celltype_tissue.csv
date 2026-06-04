@@ -1,0 +1,16 @@
+"Celltype","Tissue","N","Mean_HH","SD_HH"
+"CD8Tex","Tumor",54,0,0
+"CD8Tex","Metastatic",307,0.0042,0.0424
+"CD8Tex","Relapsed",11,0,0
+"Fibroblasts","Tumor",695,0.0282,0.0976
+"Fibroblasts","Metastatic",94,0.0097,0.0579
+"Fibroblasts","Relapsed",95,0.0151,0.0734
+"Malignant","Tumor",4249,0.0223,0.0823
+"Malignant","Metastatic",526,0.0108,0.0546
+"Malignant","Relapsed",4101,0.0052,0.0417
+"Mono/Macro","Tumor",59,0.0363,0.1475
+"Mono/Macro","Metastatic",191,0.0055,0.0438
+"Mono/Macro","Relapsed",9,0,0
+"Myofibroblasts","Tumor",158,0.0099,0.0569
+"Myofibroblasts","Metastatic",356,0.004,0.0387
+"Myofibroblasts","Relapsed",310,0.0096,0.0576
