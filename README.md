@@ -34,7 +34,6 @@ The original raw data are deposited at GEO under accession
 .
 ├── Hedgehog_ICB_analysis.R              # initial analysis (composite ICB) — Fig 1–8
 ├── Hedgehog_ICB_signatures_analysis.R   # 9 published ICB signatures — Fig 9–14
-├── Hedgehog_figures_and_methods.docx    # Results / Methods / Figure legends (paper-ready)
 ├── README.md                            # this file
 ├── LICENSE                              # MIT
 ├── CITATION.cff                         # citation metadata
@@ -136,13 +135,6 @@ comprises 8 samples of mixed histology:
 **Patient age, germline BRCA1/2 status, FIGO stage, and prior treatment were
 not reported in the source publication and are therefore not available for
 stratified analysis.**
-
----
-
-## Methods and figure legends
-
-A paper-ready Results section, full Methods, and all main + supplementary
-figure legends are provided in `Hedgehog_figures_and_methods.docx`.
 
 ---
 

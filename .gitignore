@@ -3,6 +3,9 @@ OV_GSE130000_expression.h5
 OV_GSE130000_CellMetainfo_table.tsv
 *.h5
 
+# --- Manuscript drafts (kept locally, not deposited) ---
+*.docx
+
 # --- R session & workspace ---
 .Rhistory
 .Rapp.history
