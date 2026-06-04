@@ -1,5 +1,7 @@
 # Hedgehog pathway activity and ICB signature correlation in ovarian cancer (GSE130000)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20542282.svg)](https://doi.org/10.5281/zenodo.20542282)
+
 Single-cell analysis of Hedgehog (HH) pathway gene expression and its correlation
 with published immune-checkpoint-blockade (ICB) response signatures in the
 GSE130000 ovarian cancer scRNA-seq dataset (Kan et al., *Oncogene* 2022),
@@ -146,7 +148,11 @@ GitHub: **https://github.com/mythreyelab/Hedgehog-ovarian-scRNAseq**
 
 If you use this code, please cite:
 
-1. **This repository** — see `CITATION.cff` (GitHub renders a "Cite this" button).
+1. **This repository (archived):** Karthikeyan M. *Hedgehog pathway activity
+   and ICB signature correlation in ovarian cancer scRNA-seq (GSE130000)*.
+   Zenodo (2026). DOI:
+   [10.5281/zenodo.20542282](https://doi.org/10.5281/zenodo.20542282).
+   See also `CITATION.cff` (GitHub renders a "Cite this repository" button).
 2. **The source dataset** — Kan T, *et al.* Single-cell RNA-seq recognized the
    initiator of epithelial ovarian cancer recurrence. *Oncogene* 41:895–906 (2022).
    DOI: [10.1038/s41388-021-02139-z](https://doi.org/10.1038/s41388-021-02139-z).

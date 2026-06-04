@@ -8,6 +8,11 @@ authors:
 type: software
 license: MIT
 repository-code: "https://github.com/mythreyelab/Hedgehog-ovarian-scRNAseq"
+doi: "10.5281/zenodo.20542282"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.20542282"
+    description: "Zenodo archive of v1.0.0"
 keywords:
   - Hedgehog signaling
   - immune checkpoint blockade
